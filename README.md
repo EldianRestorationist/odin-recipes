@@ -1,0 +1,1 @@
+This project is a main index page with links to a few recipes. The purpose is to practice with html. We will style this project later with css. 
